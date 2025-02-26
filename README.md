@@ -32,5 +32,5 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=navin-vijayakumar&show_icons=true&locale=en" alt="navin-vijayakumar" /></p>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=navin-vijayakumar&show_icons=true)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=navin-vijayakumar&v=1)
 
