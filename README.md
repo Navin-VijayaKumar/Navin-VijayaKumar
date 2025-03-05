@@ -31,5 +31,5 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=navin-vijayakumar&show_icons=true&locale=en" alt="navin-vijayakumar" /></p>
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=navin-vijayakumar&v=1)
+![GitHub Streak](https://streak-stats.demolab.com?user=navin-vijayakumar&theme=github-dark-blue)
 
