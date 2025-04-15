@@ -33,3 +33,4 @@
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=navin-vijayakumar&theme=github-dark-blue)
 
+https://github-profile-trophy.vercel.app/?username=Navin-VijayaKumar&theme=radical&no-frame=false&no-bg=false&margin-w=4
