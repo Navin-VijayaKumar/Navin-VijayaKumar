@@ -33,10 +33,4 @@
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=navin-vijayakumar&theme=github-dark-blue)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Navin-VijayaKumar&limit=5&theme=dark&combine_all_yearly_contributions=true)
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Navin-VijayaKumar/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Navin-VijayaKumar/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/Navin-VijayaKumar/output/github-snake.svg" />
-</picture>
+
