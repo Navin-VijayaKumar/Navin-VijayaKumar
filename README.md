@@ -31,5 +31,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=navin-vijayakumar&show_icons=true&locale=en" alt="navin-vijayakumar" /></p>
 
-https://github-profile-trophy.vercel.app/?username=navin-vijayakumar&theme=onedark&row=1
 
