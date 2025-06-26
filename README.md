@@ -36,4 +36,4 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=Navin-VijayaKumar&theme=gruvbox&no-frame=true&title=Stars,Commits,Followers,Repositories)](https://github.com/ryo-ma/github-profile-trophy)
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Navin-VijayaKumar&layout=compact&theme=tokyonight)
+![summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Navin-VijayaKumar&theme=github_dark)
