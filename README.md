@@ -9,7 +9,8 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=navin-vijayakumar&label=Profile%20views&color=0e75b6&style=flat" alt="navin-vijayakumar" /> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-- 👤 PORTFOLIO**https://navinv.netlify.app/**
+
+- 👤 Portfolio **https://navinv.netlify.app/**
 
 - 🌱 I’m currently learning **React Native** and Langchain
 
