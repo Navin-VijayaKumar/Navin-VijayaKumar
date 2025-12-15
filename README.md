@@ -55,7 +55,8 @@
 
 ## 🏆 GitHub Trophies
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Navin-VijayaKumar&theme=gruvbox&no-frame=true&title=Stars,Commits,Followers,Repositories)](https://github.com/ryo-ma/github-profile-trophy)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=Navin-VijayaKumar&theme=gruvbox&no-frame=true&no-bg=true&margin-w=10&title=Stars,Commits,Followers,Repositories)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 ![summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Navin-VijayaKumar&theme=github_dark)
