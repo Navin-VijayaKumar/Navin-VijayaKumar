@@ -2,9 +2,9 @@
 
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Software+Developer;Full+Stack+Developer&font=Fira%20Code&duration=5000&pause=1000&center=true&width=800&height=120&align=center&vCenter=true&size=32" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Salesforce+Developer;Full+Stack+Developer&font=Fira%20Code&duration=5000&pause=1000&center=true&width=800&height=120&align=center&vCenter=true&size=32" alt="Typing SVG"/>
   <br><br>
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header&text=Navin&fontSize=50&fontAlignY=40&animation=fadeIn&colorA=6366F1&colorB=EC4899&colorC=10B981" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header&text=Hi%,%I'm%20Navin&fontSize=50&fontAlignY=40&animation=fadeIn&colorA=6366F1&colorB=EC4899&colorC=10B981" />
 </div>
 
 
