@@ -20,9 +20,8 @@
 
 - 👤 Portfolio **https://navinv.netlify.app/**
 
-- 🌱 I’m currently learning **React Native** and Langchain
+- 🌱 I’m currently learning **Salesforce Clouds**
 
-- 💬 Ask me about **MERN**
 
 - 📫 How to reach me **navinv10122004@gmail.com**
 
